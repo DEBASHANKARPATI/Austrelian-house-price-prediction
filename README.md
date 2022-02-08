@@ -9,20 +9,10 @@ The company wants to know:
 
 2.How well those variables describe the price of a house.
 ## Table of Contents
-* [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
-
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
 We have used Ridge regression model as our final model for regularization , which is both robust and generalized .
@@ -32,13 +22,16 @@ Then found the important 16 features used for predicting the house price.
 
 
 ## Technologies Used
-- skleran -'0.24.1'
-- pandas -'1.2.4'
-- numpy - version 3.0
+- pandas '1.2.4'
+- numpy '1.20.1'
+- seaborn '0.11.1'
+- matplotlib '3.3.4'
+- statsmodels '0.12.2'
+- sklearn '0.24.1'
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by DEBASHANKARPATI - feel free to contact me!
 
 
 <!-- Optional -->
